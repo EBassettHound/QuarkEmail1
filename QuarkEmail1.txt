@@ -825,92 +825,11 @@ color:#000000 !important;
                 
 
 
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
-                        <tbody>
-                          <tr>
-                             <td align="center" style="padding: 0px 0px 0px 0px;">
-                                <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-	                    <tr>
-	                        
-	                        <th width="580px" class="">
-	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-	                                <tr>
-	                                    <td align="right" dir="ltr" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; color: #323436; padding: 130px 20px 0px 30px; text-align: left; letter-spacing: 2.0px; text-transform: uppercase;font-weight: 600" class="padLeft20">
-	                                        
-	                                      Our Polar Promise
-	                                       </td></tr>
-	                            </table>
-	                        </th>
-                          <th width="4px" class="">
-
-	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="4px">
-	                                <tr>
-	                                    <td dir="ltr" align="left" valign="top" style="padding: 0px 50px 0px 0px;" class="padRight30">
-	                                        <img src="https://i.postimg.cc/T1G8Snvg/Headline-rectangle.png" width="4" height="143" alt="" border="0" style="height: 143px; width: 4px; margin: 0 auto;" class="">
-	                                    </td>
-	                                </tr>
-	                            </table>
-
-	                        </th>
-	                      
-	                    </tr>
-	                </table>
-                  </td>
-                     </tr>
-  </tbody>
-        </table>
+  
 				
                        
-                      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
-                        <tbody>
-                          <tr>
-                            <td align="center" valign="top" style="padding:0px" class="">
-                              <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="">
-                                <tbody>
-                              
-                                  <tr>
-                                 
-																			<td align="center" style="padding: 8px 20px 0px 20px;" class="responsiveImage"><a href="https://www.quarkexpeditions.com/sustainability" target="_blank"> <img class="responsiveImage" src="https://i.postimg.cc/7Y959pM1/Polar-Promise.jpg" style="display: block; margin: 0 auto; width: 540px;" width="540" alt="A Polar animal feeding on brown grass"></a></td>
-																		
-                                  </tr>
-                                   
-                                  <tr>
-<td align="center" valign="top" style="padding:40px 0px 0px 0px;" class="">
-                                	  <table role="presentation" cellpadding="0" cellspacing="0" border="0" >
-                                  		<tbody>
-										    <tr>
-										  <td align="right" valign="middle" style="padding:0px 0px 0px 0px" width="35"><img border="0" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" width="35" alt="" style="display:block"></td>
-                                    	  <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 22px; color: #323436; padding: 0px 8px 0px 8px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="headlineResize6">Quark Expeditions is committed to keeping its Polar Promise of encouraging environmentally responsible tourism.</td>
-                                          <td align="left" valign="middle" style="padding:0px 0px 0px 0px" width="35"><img border="0" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" width="35" alt="" style="display:block"></td>
-                                  		</tr>
-																			</tbody>
-																		</table>
-																	</td>
-																</tr>
-                                    <tr>
-           <td class="mobileSidePadding30" style="padding: 20px 50px 0px 50px; font-family: Arial, Helvetica, sans-serif;  font-style: normal; font-weight: 400; font-size: 15px; line-height: 26px; text-align: center; color: #323345;">
-           Traveling with us ensures your participation in this promise as we protect these extraordinary landscapes. It's not just about doing better; it's about creating a legacy of preservation and ensuring future generations can marvel at the same wonders that have left us breathless.</td></tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f7f9fb" border="0">
-                        <tbody>
-                          <tr>
-                            <td align="center" style="padding:30px 0px 60px 0px;">
-                              <table role="presentation" border="0" cellpadding="0" cellspacing="0">
-                                <tbody>
-                                  <tr>
-                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/sustainability" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">Learn more&nbsp;→</a></td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                      
+  
 
 
  
@@ -943,22 +862,7 @@ color:#000000 !important;
 
 
 
-<table bgcolor="#ffffff" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
-                      <tbody>
-                          
-                          <tr>
-  <td align="center"  style="padding:60px 30px 0px 30px; background-color: #ffffff">
-                                     <img class=""  alt="Quark Expeditions" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" style="display: block; height: auto; width: 50px; text-align: center; border: 0px;" width="50">
-                                      </td>
-                                       </tr>
-                                       <tr>
-                                  <td align="center" valign="top" style="font-family: Georgia, Times New Roman, serif; font-weight:600; font-size:34px; line-height:44px; color:#323345; padding:30px 30px 0px 30px; letter-spacing:4.0px; text-transform:uppercase" class="headlineResize8 mobileSidePadding15 padTop30">Ready to take <br>the plunge?
-</td>
-                          </tr>
-        <tr>
-           <td class="mobileSidePadding25" style="padding: 15px 75px 40px 75px; font-family: Arial, Helvetica, sans-serif;  font-style: normal; font-weight: 400; font-size: 15px; line-height: 26px; text-align: center; color: #323345;">
-            Take advantage of last-minute offers ranging from <strong>15%</strong> to <strong>40%</strong> off!</td></tr>
-                    </tbody></table>
+
 
 
 
@@ -996,7 +900,7 @@ color:#000000 !important;
 						</tr>
             	<tr>
 							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
-                           Explore the Antarctic Peninsula.
+                           Fly the Drake
                             </td>
 						</tr>
             	<tr>
@@ -1013,6 +917,11 @@ color:#000000 !important;
 							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
                         <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
+						</tr>
+            <tr>
+							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+                <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
+              </td>
 						</tr>
 							</tbody>
 						</table>
@@ -1053,12 +962,12 @@ color:#000000 !important;
 						
                             		<tr>
 							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
-                           Antarctica
+                           crossing the circle
                             </td>
 						</tr>
             	<tr>
 							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
-                           Explore the Antarctic Peninsula.
+                           Southern Expedition
                             </td>
 						</tr>
             	<tr>
@@ -1076,8 +985,150 @@ color:#000000 !important;
                         <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
 						</tr>
+            <tr>
+							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+                <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
+              </td>
+						</tr>
+            
 							</tbody>
 						</table>
+						</th>
+						<!-- Column end-->
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</td>
+	</tr>
+  <tr>
+ <td class="mobileSidePadding10" align="center" style="padding: 20px 50px 20px 50px">
+ <table class="voyageContainer" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#F7F9FB" width="100%" style="border-radius: 2px; background-color: rgba(255, 255, 255, 0.5); border-right: .5px solid #d3d3d3; border-left: .5px solid #d3d3d3;border-top: .5px solid #d3d3d3; box-shadow: 0px 8px 8px 3px rgba(96, 96, 96, 0.3);">
+	<tbody>
+		<tr>
+			<td class="" style="padding: 0px 0px 0px 0px; background-color: #F7F9FB;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+				<tbody>
+					<tr><!-- Column start -->
+						<th class="mobileStack " valign="top" width="50%">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/W3Mccvmq/Cape-Horn-Adobe-Stock-104775031-1-1.png" style="display: block;" width="245" alt="Antarctica"></td>
+                                  </tr>
+							</tbody>
+						</table>
+						</th>
+						<!-- Column end --><!-- Column start -->
+						<th class="mobileStack "  width="50%">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+              
+						
+                            		<tr>
+							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+                           essential patagonia
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
+                           Chilean Fjords and Torres del Paine
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+                           Starting from:
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+                             $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
+                            </td>
+						</tr>
+            <tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+                            </td>
+						</tr>
+            <tr>
+							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+                <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
+              </td>
+						</tr>
+							</tbody>
+						</table>
+						</th>
+						<!-- Column end-->
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</td>
+	</tr>
+  <tr>
+ <td class="mobileSidePadding10" align="center" style="padding: 20px 50px 20px 50px">
+ <table class="voyageContainer" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#F7F9FB" width="100%" style="border-radius: 2px; background-color: rgba(255, 255, 255, 0.5); border-right: .5px solid #d3d3d3; border-left: .5px solid #d3d3d3;border-top: .5px solid #d3d3d3; box-shadow: 0px 8px 8px 3px rgba(96, 96, 96, 0.3);">
+	<tbody>
+		<tr>
+			<td class="" style="padding: 0px 0px 0px 0px; background-color: #F7F9FB;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+				<tbody>
+					<tr><!-- Column start -->
+						<th class="mobileStack " valign="top" width="50%">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/Xq4SVzxH/21-A6998-2-Edit-1.png" style="display: block;" width="245" alt="Antarctica"></td>
+                                  </tr>
+							</tbody>
+						</table>
+						</th>
+						<!-- Column end --><!-- Column start -->
+						<th class="mobileStack "  width="50%">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+							<tbody>
+              
+						
+                            		<tr>
+							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+                           Antarctic express
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
+                           crossing the circle
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+                           Starting from:
+                            </td>
+						</tr>
+            	<tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+                             $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
+                            </td>
+						</tr>
+            <tr>
+							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+                            </td>
+						</tr>
+            <tr>
+							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+                <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
+              </td>
+						</tr>
+            
+							</tbody>
+						</table>
+            
 						</th>
 						<!-- Column end-->
 					</tr>
@@ -1110,6 +1161,82 @@ color:#000000 !important;
                         </tbody>
                       </table>
 
+
+
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
+                        <tbody>
+                          <tr>
+                             <td align="center" style="padding: 0px 0px 0px 0px;">
+                                <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+	                    <tr>
+	                        
+	                        <th width="580px" class="">
+	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+	                                <tr>
+	                                    <td align="right" dir="ltr" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; color: #323436; padding: 130px 20px 0px 30px; text-align: left; letter-spacing: 2.0px; text-transform: uppercase;font-weight: 600" class="padLeft20">
+	                                        
+	                                      Our Polar Promise
+	                                       </td></tr>
+	                            </table>
+	                        </th>
+                          
+	                      
+	                    </tr>
+	                </table>
+                  </td>
+                     </tr>
+  </tbody>
+        </table>                
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top" style="padding:0px" class="">
+                              <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="">
+                                <tbody>
+                              
+                                  <tr>
+                                 
+																			<td align="center" style="padding: 8px 20px 0px 20px;" class="responsiveImage"><a href="https://www.quarkexpeditions.com/sustainability" target="_blank"> <img class="responsiveImage" src="https://i.postimg.cc/7Y959pM1/Polar-Promise.jpg" style="display: block; margin: 0 auto; width: 540px;" width="540" alt="A Polar animal feeding on brown grass"></a></td>
+																		
+                                  </tr>
+                                   
+                                  <tr>
+<td align="center" valign="top" style="padding:40px 0px 0px 0px;" class="">
+                                	  <table role="presentation" cellpadding="0" cellspacing="0" border="0" >
+                                  		<tbody>
+										    <tr>
+										  <td align="right" valign="middle" style="padding:0px 0px 0px 0px" width="35"><img border="0" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" width="35" alt="" style="display:block"></td>
+                                    	  <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 22px; color: #323436; padding: 0px 8px 0px 8px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="headlineResize6">Quark Expeditions is committed to keeping its Polar Promise of encouraging environmentally responsible tourism.</td>
+                                          <td align="left" valign="middle" style="padding:0px 0px 0px 0px" width="35"><img border="0" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" width="35" alt="" style="display:block"></td>
+                                  		</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+                                    <tr>
+           <td class="mobileSidePadding30" style="padding: 20px 50px 0px 50px; font-family: Arial, Helvetica, sans-serif;  font-style: normal; font-weight: 400; font-size: 15px; line-height: 26px; text-align: center; color: #323345;">
+           Traveling with us ensures your participation in this promise as we protect these extraordinary landscapes. It's not just about doing better; it's about creating a legacy of preservation and ensuring future generations can marvel at the same wonders that have left us breathless.</td></tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f7f9fb" border="0">
+                        <tbody>
+                          <tr>
+                            <td align="center" style="padding:30px 0px 60px 0px;">
+                              <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                  <tr>
+                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/sustainability" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">Learn more&nbsp;→</a></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
 
 											  
 
