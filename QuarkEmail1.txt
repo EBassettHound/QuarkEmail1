@@ -510,7 +510,7 @@
       
       }
 .followUpBg {
-   background-image: url("https://i.postimg.cc/j2BPhyDr/Follow-Up-Hero-Mobile-Img.png") !important;
+   background-image: url("https://i.postimg.cc/4xmMT9ph/activity-1-1-1.png") !important;
    width: 100% !important;
    height: 500px !important;
    /* update height here */
@@ -731,10 +731,10 @@ color:#000000 !important;
    
  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
 					  <tbody><tr>
-					    <td background="https://i.postimg.cc/VLbjkZhs/Follow-Up-Hero-Img.png" bgcolor="#FFFFFF" valign="bottom" width="600" style="background-position:top center; background-size:cover;" class="followUpBg">
+					    <td background="https://i.postimg.cc/fRpPWRvq/activity-1-1.png" bgcolor="#FFFFFF" valign="bottom" width="600" style="background-position:top center; background-size:cover;" class="followUpBg">
                     	<!--[if gte mso 9]>
                     	<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height:888px;">
-                    	<v:fill type="frame" src="https://i.postimg.cc/VLbjkZhs/Follow-Up-Hero-Img.png" color="#FFFFFF" />
+                    	<v:fill type="frame" src="https://i.postimg.cc/fRpPWRvq/activity-1-1.png" color="#FFFFFF" />
                     	<v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
                     	<![endif]-->
                     	<!-- content over background image -->
@@ -756,7 +756,7 @@ color:#000000 !important;
                                     
          <a href="https://www.quarkexpeditions.com/" target="_blank"><img alt="Quark Expeditions" class="show padTop20 padBottom20 " height="auto" src="https://i.postimg.cc/cHCVqqGB/Quark-White-CMYK-Tag.png" style="width:200px; height:auto; display:block;" width="200"></a></td></tr>
 												<tr>
-                              	  <td align="center" valign="bottom" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:20px 30px 0px 30px;" class="mobileSidePadding10 headlineResize7 padTop10"><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">Epic Photos for</a></td>
+                              	  <td align="center" valign="bottom" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:20px 30px 0px 30px;" class="mobileSidePadding10 headlineResize7 padTop10"><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">Which Activities</a></td>
                             	</tr>
 								<tr>
                               	  <td align="center" valign="bottom">   
@@ -770,7 +770,7 @@ color:#000000 !important;
 	                        <th width="25%" class="">
 	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
 	                                <tr>
-	                                    <td align="right" dir="ltr" valign="top" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:0px 0px 0px 40px;" class="headlineResize7 keepDark padLeft10"><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">an</a>
+	                                    <td align="right" dir="ltr" valign="top" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:0px 0px 0px 40px;" class="headlineResize7 keepDark padLeft10"><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">Are</a>
 	                                       </td></tr>
 	                            </table>
 	                        </th>
@@ -782,18 +782,25 @@ color:#000000 !important;
 	                                          <a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank"><img alt="Epic Adventure" class="epicAdventureImg" height="auto" src="https://i.postimg.cc/Kj1tL0vN/Epic-Adventure-Headline.png" style="width:410px; height:auto; display:block;" width="410"></a>
 	                                    </td>
 	                                </tr>
+                                  
 	                            </table>
-
+                              
+	                            
 	                        </th>
+                          
+                          
 	                      
 	                    </tr>
+                    
 	                </table>
+                  
                   </td>
                      </tr>
   </tbody>
         </table>
         </td>
 	                                </tr>
+                                  
                           	  </tbody></table>
                           	                          	</td>
                       	  </tr>
@@ -838,19 +845,7 @@ color:#000000 !important;
 				
 
         <div style="mso-hide:all">
- <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#eef6ff" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-	                    <tr>
-<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
-                                	  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
-                                  		<tbody>
-                                         <tr>
-                                    	  <td align="center" valign="bottom"  style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 40px; text-align:left; line-height:48px; color:#323345; padding: 40px 0px 0px 0px; letter-spacing: 2.0px" class="eaHeadline mobileSidePadding30 padTop30">Embrace Adventure at<br> <i>Unbelievable Prices</i></td>
-                                  		</tr>
-																			</tbody>
-																		</table>
-																	</td>
-																</tr>
-	                </table>
+ 
 </div>
 				
    
@@ -864,10 +859,24 @@ color:#000000 !important;
 
 
 
+<table bgcolor="#F7F9FB" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                      <tbody>
+                          
+                          <tr>
+  <td align="center"  style="padding:60px 30px 0px 30px; background-color: #F7F9FB">
+                                     <img class=""  alt="Quark Expeditions" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" style="display: block; height: auto; width: 50px; text-align: center; border: 0px;" width="50">
+                                      </td>
+                                       </tr>
+                                       <tr>
+                                  <td align="center" valign="top" style="font-family: Georgia, Times New Roman, serif; font-weight:600; font-size:34px; line-height:44px; color:#323345; padding:30px 30px 0px 30px; letter-spacing:4.0px; text-transform:uppercase" class="headlineResize8 mobileSidePadding15 padTop30">Exclusive Pricing<br>just for you
+</td>
+                          </tr>
+        <tr>
+           </tr>
+                    </tbody></table>
 
 
-
-<table bgcolor="#eef6ff" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+<table bgcolor="#F7F9FB" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
                       <tbody>
                              <tr>
  <td class="mobileSidePadding10" align="center" style="padding: 20px 50px 20px 50px">
@@ -1008,14 +1017,17 @@ color:#000000 !important;
  <td class="mobileSidePadding10" align="center" style="padding: 20px 50px 20px 50px">
  <table class="voyageContainer" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#F7F9FB" width="100%" style="border-radius: 2px; background-color: rgba(255, 255, 255, 0.5); border-right: .5px solid #d3d3d3; border-left: .5px solid #d3d3d3;border-top: .5px solid #d3d3d3; box-shadow: 0px 8px 8px 3px rgba(96, 96, 96, 0.3);">
 	<tbody>
+    
 		<tr>
 			<td class="" style="padding: 0px 0px 0px 0px; background-color: #F7F9FB;">
 			<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 				<tbody>
+          
 					<tr><!-- Column start -->
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 							<tbody>
+            
 							     <tr>
 																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/W3Mccvmq/Cape-Horn-Adobe-Stock-104775031-1-1.png" style="display: block;" width="245" alt="Antarctica"></td>
                                   </tr>
@@ -1083,6 +1095,7 @@ color:#000000 !important;
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 							<tbody>
+                
 							     <tr>
 																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/Xq4SVzxH/21-A6998-2-Edit-1.png" style="display: block;" width="245" alt="Antarctica"></td>
                                   </tr>
@@ -1152,7 +1165,7 @@ color:#000000 !important;
                               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                 <tbody>
                                   <tr>
-                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/offers/solo-travel-deals" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">View All Offers&nbsp;→</a></td>
+                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/offers/solo-travel-deals" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">See your options&nbsp;→</a></td>
                                   </tr>
                                 </tbody>
                               </table>
