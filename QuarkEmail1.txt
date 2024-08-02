@@ -124,7 +124,7 @@
         .mobileStack {
           width: 100% !important;
           display: table !important;
-          text-align: center !important;         
+          text-align: left !important;         
         }
 
  .noBorder {
@@ -329,6 +329,10 @@
           padding-left: 100px !important;
         }
 
+        .padLeft80 {
+          padding-left: 80px !important;
+        }
+
   .mobileSidePadding0 {
           padding-left: 0px !important;
           padding-right: 0px !important;
@@ -499,14 +503,19 @@
           line-height: 13px !important;
         }
 
-
+        .responsiveHeroTitle {
+          width: 122px !important;
+          height: auto !important;
+          
+        }
         .responsiveImage {
           width: 100% !important;
           height: auto !important;
           min-width: 100% !important;
         }
  .voyageContainer { 
-        width: 240px !important;
+        width: 300px !important;
+        
       
       }
 .followUpBg {
@@ -754,7 +763,7 @@ color:#000000 !important;
                            <tr>
    	 <td align="center" class="padding0" style="margin: 0 auto;padding: 40px 0px 20px 0px;" width="100%">
                                     
-         <a href="https://www.quarkexpeditions.com/" target="_blank"><img alt="Quark Expeditions" class="show padTop20 padBottom20 " height="auto" src="https://i.postimg.cc/cHCVqqGB/Quark-White-CMYK-Tag.png" style="width:200px; height:auto; display:block;" width="200"></a></td></tr>
+         <a href="https://www.quarkexpeditions.com/lp/adventure-options" target="_blank"><img alt="Quark Expeditions" class="show padTop20 padBottom20 " height="auto" src="https://i.postimg.cc/cHCVqqGB/Quark-White-CMYK-Tag.png" style="width:200px; height:auto; display:block;" width="200"></a></td></tr>
 												<tr>
                               	  <td align="center" valign="bottom" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:20px 30px 0px 30px;" class="mobileSidePadding10 headlineResize7 padTop10"><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">Which Activities</a></td>
                             	</tr>
@@ -774,12 +783,11 @@ color:#000000 !important;
 	                                       </td></tr>
 	                            </table>
 	                        </th>
-                          <th width="75%" class="">
-
+                          <th width="36%" class="">
 	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
 	                                <tr>
-	                                    <td dir="ltr" align="left" valign="top" style="padding: 0px 40px 0px 5px;" class="padRight10">
-	                                          <a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank"><img alt="Epic Adventure" class="epicAdventureImg" height="auto" src="https://i.postimg.cc/Kj1tL0vN/Epic-Adventure-Headline.png" style="width:410px; height:auto; display:block;" width="410"></a>
+	                                    <td class="padTop0 " dir="ltr" align="left" valign="top" style="padding: 8px 0px 0px 5px;" >
+	                                          <a href="https://www.quarkexpeditions.com/lp/adventure-options" target="_blank"><img  alt="Right" class="responsiveHeroTitle "  height="auto" src="https://i.postimg.cc/FRGvfwZ6/Email1-Headline-Image.png" style="width:200px; height:auto; display:block;" ></a>
 	                                    </td>
 	                                </tr>
                                   
@@ -791,11 +799,14 @@ color:#000000 !important;
                           
 	                      
 	                    </tr>
+                     
                     
 	                </table>
                   
                   </td>
+                  
                      </tr>
+                     <td align="center" valign="bottom" style="font-family: Georgia, Times New Roman, serif; font-weight:400;font-size: 56px; line-height:66px; color:#ffffff; letter-spacing: 2.0px;padding:0px 30px 0px 30px;" class="mobileSidePadding10 headlineResize7"gradient><a href="https://www.quarkexpeditions.com/photographic-journal" target="_blank" style="text-decoration: none; color: #ffffff">For You?</a></td>
   </tbody>
         </table>
         </td>
@@ -859,11 +870,11 @@ color:#000000 !important;
 
 
 
-<table bgcolor="#F7F9FB" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+<table bgcolor="#eef6ff" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
                       <tbody>
                           
                           <tr>
-  <td align="center"  style="padding:60px 30px 0px 30px; background-color: #F7F9FB">
+  <td align="center"  style="padding:60px 30px 0px 30px; background-color: #eef6ff">
                                      <img class=""  alt="Quark Expeditions" src="https://i.postimg.cc/G2Zd41fz/Rectangle-8.png" style="display: block; height: auto; width: 50px; text-align: center; border: 0px;" width="50">
                                       </td>
                                        </tr>
@@ -876,7 +887,7 @@ color:#000000 !important;
                     </tbody></table>
 
 
-<table bgcolor="#F7F9FB" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+<table style="padding: 0px 0px 80px 0px;"  bgcolor="#eef6ff" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
                       <tbody>
                              <tr>
  <td class="mobileSidePadding10" align="center" style="padding: 20px 50px 20px 50px">
@@ -889,12 +900,34 @@ color:#000000 !important;
 					<tr><!-- Column start -->
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-							<tbody>
+							
+						</table>
+
+
+            <table class="hide" role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
+                <tbody>
+                
 							     <tr>
-																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.imgur.com/HDgGaGZ.png" style="display: block;" width="245" alt="Antarctica"></td>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/NfRKFjXC/IMG.png" style="display: block;" width="245" alt="Antarctica"></td>
+                                  </tr>
+							</tbody>        
+            </table>
+        <div style="mso-hide:all">
+ <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#EEF6FF" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                      <tbody>
+                
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/rF1qv8KS/IMG-4.png" style="display: block;" width="245" alt="Antarctica"></td>
                                   </tr>
 							</tbody>
-						</table>
+                                    </table>
+                                  </td>
+                                </tr>
+                  </table>
+</div>
 						</th>
 						<!-- Column end --><!-- Column start -->
 						<th class="mobileStack "  width="50%">
@@ -903,32 +936,32 @@ color:#000000 !important;
               
 						
                             		<tr>
-							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
                            Antarctica
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" >
                            Fly the Drake
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" >
                            Starting from:
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" >
                              $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
                             </td>
 						</tr>
             <tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
-                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" >
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="padLeft80" style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
 						</tr>
             <tr>
-							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+							<td class="padLeft12" align="left" valign="bottom" style=" padding: 0px 20px 18px 20px;" >
                 <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
               </td>
 						</tr>
@@ -956,12 +989,34 @@ color:#000000 !important;
 					<tr><!-- Column start -->
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-							<tbody>
+							
+						</table>
+
+
+            <table class="hide" role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
+                <tbody>
+                
 							     <tr>
-																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.imgur.com/87et8Xl.png" style="display: block;" width="245" alt="Antarctica"></td>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/rwJzGZQS/IMG-1.png" style="display: block;" width="245" alt="Crossing the circle"></td>
+                                  </tr>
+							</tbody>        
+            </table>
+        <div style="mso-hide:all">
+ <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#EEF6FF" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                      <tbody>
+                
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/ncbHRscF/IMG-5.png" style="display: block;" width="245" alt="Crossing the circle"></td>
                                   </tr>
 							</tbody>
-						</table>
+                                    </table>
+                                  </td>
+                                </tr>
+                  </table>
+</div>
 						</th>
 						<!-- Column end --><!-- Column start -->
 						<th class="mobileStack "  width="50%">
@@ -970,32 +1025,32 @@ color:#000000 !important;
               
 						
                             		<tr>
-							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 4px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
                            crossing the circle
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
                            Southern Expedition
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
                            Starting from:
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
                              $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
                             </td>
 						</tr>
             <tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
-                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="padLeft80" style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
 						</tr>
             <tr>
-							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+							<td class="padLeft12" align="left" valign="bottom" style=" padding: 0px 20px 18px 20px;" class="">
                 <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
               </td>
 						</tr>
@@ -1026,13 +1081,34 @@ color:#000000 !important;
 					<tr><!-- Column start -->
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-							<tbody>
-            
+							
+						</table>
+
+
+            <table class="hide" role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
+                <tbody>
+                
 							     <tr>
-																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/W3Mccvmq/Cape-Horn-Adobe-Stock-104775031-1-1.png" style="display: block;" width="245" alt="Antarctica"></td>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/q7vq1c5W/IMG-2.png" style="display: block;" width="245" alt="essential patagonia"></td>
+                                  </tr>
+							</tbody>        
+            </table>
+        <div style="mso-hide:all">
+ <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#EEF6FF" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                      <tbody>
+                
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/rwgMwQGs/IMG-6.png" style="display: block;" width="245" alt="essential patagonia"></td>
                                   </tr>
 							</tbody>
-						</table>
+                                    </table>
+                                  </td>
+                                </tr>
+                  </table>
+</div>
 						</th>
 						<!-- Column end --><!-- Column start -->
 						<th class="mobileStack "  width="50%">
@@ -1041,32 +1117,32 @@ color:#000000 !important;
               
 						
                             		<tr>
-							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 3px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
                            essential patagonia
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
                            Chilean Fjords and Torres del Paine
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
                            Starting from:
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
                              $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
                             </td>
 						</tr>
             <tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
-                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="padLeft80" style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
 						</tr>
             <tr>
-							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+							<td class="padLeft12" align="left" valign="bottom" style=" padding: 0px 20px 18px 20px;" class="">
                 <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
               </td>
 						</tr>
@@ -1094,13 +1170,36 @@ color:#000000 !important;
 					<tr><!-- Column start -->
 						<th class="mobileStack " valign="top" width="50%">
 						<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-							<tbody>
+							
+						</table>
+
+
+            <table class="hide" role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
+                <tbody>
                 
 							     <tr>
-																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/Xq4SVzxH/21-A6998-2-Edit-1.png" style="display: block;" width="245" alt="Antarctica"></td>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/7ZDf2rMH/IMG-3.png" style="display: block;" width="245" alt="Antarctic Express"></td>
+                                  </tr>
+							</tbody>        
+            </table>
+        <div style="mso-hide:all">
+ <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#EEF6FF" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                      <tbody>
+                
+							     <tr>
+																			<td align="left" style="padding: 0px 0px 0px 0px;" class=""><img class="responsiveImage" src="https://i.postimg.cc/0y99vLwh/Antarctic-Express-Secondary.jpg" style="display: block;" width="245" alt="Antarctic Express"></td>
                                   </tr>
 							</tbody>
-						</table>
+                                    </table>
+                                  </td>
+                                </tr>
+                  </table>
+</div>
+
+
 						</th>
 						<!-- Column end --><!-- Column start -->
 						<th class="mobileStack "  width="50%">
@@ -1109,34 +1208,36 @@ color:#000000 !important;
               
 						
                             		<tr>
-							 <td align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #323436; padding: 12px 20px 0px 20px; text-align:left; letter-spacing: 1.5px; text-transform: uppercase;font-weight: 600" class="">
                            Antarctic express
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" class="">
-                           crossing the circle
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 0px 20px 10px 20px; text-align:left; font-weight: 400" >
+                           Crossing the circle
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; color: #323436; padding: 5px 20px 0px 20px; text-align:left; font-weight: 400" >
                            Starting from:
                             </td>
 						</tr>
             	<tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" class="">
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 21px; line-height: 20px; color: #323436; padding: 0px 20px 0px 20px; text-align:left; font-weight: 600" >
                              $9,496&nbsp;&nbsp;<span style="font-weight: 400;font-size:15px">USD</span>
                             </td>
 						</tr>
             <tr>
-							 <td align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" class="">
-                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3DA955;font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
+							 <td class="padLeft12" align="center" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; padding: 15px 20px 15px 20px; text-align:left; font-weight: 400;" >
+                        <span style="color: #8d939b;text-decoration: line-through">$10,496 USD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="padLeft80" style="color: #3DA955; font-weight:bold;letter-spacing:.5px;">SAVE $1000</span>
                             </td>
 						</tr>
             <tr>
-							<td align="left" valign="bottom" style=" padding: 0px 20px 10px 20px;" class="">
+							<td class="padLeft12" align="left" valign="bottom" style=" padding: 0px 20px 18px 20px;" >
                 <img  width="115" src="https://i.postimg.cc/76cmxsDv/Learn-More-1.png">
               </td>
+             
+               
 						</tr>
             
 							</tbody>
@@ -1153,19 +1254,57 @@ color:#000000 !important;
 </table>
 </td>
 	</tr>
+  <td align="center"  style="padding:60px 30px 0px 30px; background-color: #eef6ff">
+                                     
+                                      </td>
 </tbody>
                       </table>
 
 
-											
-                      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
+											<table class="hide" role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
                         <tbody>
                           <tr>
-                            <td align="center" style="padding:20px 0px 60px 0px;">
+                             <td align="center" style="padding: 0px 0px 0px 0px;">
+                                <table bgcolor="#EEF6FF" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                         <td align="center" class="" style="padding: 0px 0px 0px 0px;">
+                              <a href="https://www.quarkexpeditions.com/lp/adventure-options" target="_blank">
+                                <img src="https://i.postimg.cc/66dXhv3B/Enhance-Expedition.png" border="0" width="600" height="auto" style="display:block;" alt="Enhance Your Expedition" class="responsiveImage">
+                              </a>
+                            </td>
+                      </tr>
+                  </table>
+                  </td>
+                     </tr>
+  </tbody>
+        </table>
+        <div style="mso-hide:all">
+ <table align="center" style="mso-hide:all; display:none;" class="show" bgcolor="#EEF6FF" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+<td align="center" valign="top" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" style="mso-hide:all; display:none; padding:0px 0px 0px 0px;" class="show">
+                                      <tbody>
+                                         <tr>
+                                       <td align="center" class="" style="padding: 0px 0px 0px 0px;">
+                              <a href="https://www.quarkexpeditions.com/lp/adventure-options" target="_blank">
+                                <img src="https://i.postimg.cc/brHfYKMZ/Enhance-Expedition-Mobile.png" border="0" width="600" height="auto" style="display:block;" alt="Enhance Your Expedition" class="responsiveImage">
+                              </a>
+                            </td>
+                                      </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                  </table>
+</div>
+                      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
+                        <tbody>
+                          <tr>
+                            <td align="center" style="padding:40px 0px 40px 0px;">
                               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                 <tbody>
                                   <tr>
-                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/offers/solo-travel-deals" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">See your options&nbsp;→</a></td>
+                                    	<td align="center" style="background-color:#f2a900; border-radius:4px;"><a href="https://www.quarkexpeditions.com/lp/adventure-options" target="_blank" style="font-family:Arial, sans-serif; font-size:14px; letter-spacing:1.0px; color:#323436; text-align:center; text-decoration:none; text-transform:uppercase; display:block; padding:16px 40px 15px 40px; mso-border-alt:1px solid #f2a900;font-weight: 700" class="ctaResize">See your options&nbsp;→</a></td>
                                   </tr>
                                 </tbody>
                               </table>
@@ -1176,7 +1315,7 @@ color:#000000 !important;
 
 
 
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
                         <tbody>
                           <tr>
                              <td align="center" style="padding: 0px 0px 0px 0px;">
@@ -1186,7 +1325,7 @@ color:#000000 !important;
 	                        <th width="580px" class="">
 	                            <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
 	                                <tr>
-	                                    <td align="right" dir="ltr" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; color: #323436; padding: 130px 20px 0px 30px; text-align: left; letter-spacing: 2.0px; text-transform: uppercase;font-weight: 600" class="padLeft20">
+	                                    <td align="right" dir="ltr" valign="bottom" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; color: #323436; padding: 30px 20px 0px 30px; text-align: left; letter-spacing: 2.0px; text-transform: uppercase;font-weight: 600" class="padLeft20">
 	                                        
 	                                      Our Polar Promise
 	                                       </td></tr>
@@ -1200,7 +1339,7 @@ color:#000000 !important;
                      </tr>
   </tbody>
         </table>                
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#F7F9FB" border="0">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#eef6ff" border="0">
                         <tbody>
                           <tr>
                             <td align="center" valign="top" style="padding:0px" class="">
